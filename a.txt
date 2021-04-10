@@ -1,3 +1,6 @@
 Git is good.
 
 Github is awesome.
+
+There is a lot of help online.
+That is a good thing.
